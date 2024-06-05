@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "."
+		},
+		{
+			"name": "web",
+			"path": "../../Desktop/web"
+		}
+	],
+	"settings": {}
+}
